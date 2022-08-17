@@ -1,2 +1,3 @@
-# study-material-scoreboard
-scoreboard project
+# Scoreboard Project
+
+Scrimba scoreboard project
